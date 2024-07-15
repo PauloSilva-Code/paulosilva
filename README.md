@@ -39,8 +39,8 @@
   <ul>
     <li>☕Gosto de um bom café.</li>
     <li>📚Quando possível leio um livro.</li>
-    <li>🎵Gosto de ouvi música clássica</li>
-    <li>🔭Inspirações - Leslie Lamport, Margaret Hamilton, Nikola Tesla e Albert Einstein.</li>
+    <li>🎵Gosto de ouvi música clássica.</li>
+    <li>🔭Minhas inspirações - Leslie Lamport, Margaret Hamilton, Nikola Tesla e Albert Einstein.</li>
   </ul>
 
 <div>
