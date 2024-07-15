@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou desenvolvedor de software que reside em Imperatriz, Brasil. Eu me especializo em construir (e ocasionalmente projetar) sites, aplicativos e tudo mais excepcionais. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real. Atualmente estou interessado em aprendendo um pouco sobre fullstack.
+  Sou desenvolvedor Front-end que reside em Imperatriz, Brasil. Eu me especializo em construir (e ocasionalmente projetar) sites, aplicativos e tudo mais excepcionais. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real. Atualmente estou interessado em aprendendo um pouco sobre fullstack.
 </p>
 
 <p align="left">
@@ -24,7 +24,7 @@
 </p>
  
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  ⤵️ Onde me encontrar: 
 </p>
 
 <p align="left">
@@ -36,7 +36,12 @@
 
 ## 
   <img src="https://img.shields.io/static/v1?label=Overview&message=Paulo Silva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-  <p>Eu sou desenvolvedor Front-End</p>
+  <ul>
+    <li>☕Gosto de um bom café.</li>
+    <li>📚Quando possível leio um livro.</li>
+    <li>🎵Gosto de ouvi música clássica</li>
+    <li>🔭Inspirações - Leslie Lamport, Margaret Hamilton, Nikola Tesla e Albert Einstein.</li>
+  </ul>
 
 <div>
   <div>
