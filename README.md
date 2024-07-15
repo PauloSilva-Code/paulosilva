@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💼 Minhas Stack:
+  💼 Minhas Stacks:
 </p>
 
 
