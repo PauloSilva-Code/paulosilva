@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou desenvolvedor Front-end que reside em Imperatriz, Brasil. Eu me especializo em construir (e ocasionalmente projetar) sites, aplicativos e tudo mais excepcionais. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real. Atualmente estou interessado em aprendendo um pouco sobre fullstack.
+  Sou desenvolvedor Front-end que reside em Imperatriz, Brasil. Eu me especializo em construir (e ocasionalmente projetar) sites, aplicativos e tudo mais excepcionais. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real. Atualmente estou interessado em aprender um pouco sobre fullstack.
 </p>
 
 <p align="left">
